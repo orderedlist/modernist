@@ -1,5 +1,7 @@
 # Modernist Theme
 
+[Demo the Theme](http://orderedlist.github.com/modernist/)
+
 This is the raw HTML and styles that are used for the *modernist* theme on [GitHub Pages](http://pages.github.com/).
 
 # SCSS
